@@ -1,0 +1,91 @@
+site_name: "SWE Interview Coding Guide"
+site_description: "A comprehensive guide for coding interviews — problem solving frameworks, data structures, algorithms, and patterns with multi-language examples."
+site_url: "https://ianlintner.github.io/swe_interview_book/"
+repo_url: "https://github.com/ianlintner/swe_interview_book"
+repo_name: "ianlintner/swe_interview_book"
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.copy
+    - content.code.annotate
+    - toc.follow
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+extra_javascript:
+  - assets/javascripts/tabsync.js
+
+nav:
+  - Home: index.md
+  - "Problem Solving Framework":
+    - guide/index.md
+    - "Step 1 — Understand the Problem": guide/step1-understand.md
+    - "Step 2 — Identify Entities & State": guide/step2-entities.md
+    - "Step 3 — Choose Data Structures": guide/step3-data-structures.md
+    - "Step 4 — Select Algorithms": guide/step4-algorithms.md
+    - "Step 5 — Plan Your Approach": guide/step5-approach.md
+    - "Step 6 — Implement": guide/step6-implement.md
+    - "Step 7 — Test & Optimize": guide/step7-test-optimize.md
+  - "Code Examples":
+    - examples/index.md
+    - "Two Sum": examples/two-sum.md
+    - "Valid Parentheses": examples/valid-parentheses.md
+    - "Merge Intervals": examples/merge-intervals.md
+    - "Binary Tree Level Order": examples/binary-tree-level-order.md
+    - "Climbing Stairs (DP)": examples/climbing-stairs.md
+  - "Pattern Reference":
+    - patterns/index.md
+    - "Sliding Window": patterns/sliding-window.md
+    - "Two Pointers": patterns/two-pointers.md
+    - "BFS & DFS": patterns/bfs-dfs.md
+    - "Dynamic Programming": patterns/dynamic-programming.md
+    - "Binary Search": patterns/binary-search.md
