@@ -75,6 +75,7 @@ nav:
     - "Step 5 — Plan Your Approach": guide/step5-approach.md
     - "Step 6 — Implement": guide/step6-implement.md
     - "Step 7 — Test & Optimize": guide/step7-test-optimize.md
+    - "Career Level Guide": guide/levels.md
   - "Code Examples":
     - examples/index.md
     - "Two Sum": examples/two-sum.md
