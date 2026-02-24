@@ -91,3 +91,4 @@ nav:
     - "BFS & DFS": patterns/bfs-dfs.md
     - "Dynamic Programming": patterns/dynamic-programming.md
     - "Binary Search": patterns/binary-search.md
+    - "Backtracking": patterns/backtracking.md
