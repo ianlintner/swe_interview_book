@@ -36,6 +36,11 @@ flowchart TD
 | [BFS & DFS](bfs-dfs.md) | Trees, graphs, shortest path | O(V+E) | Queue / Stack | [→](bfs-dfs.md) |
 | [Dynamic Programming](dynamic-programming.md) | Overlapping subproblems | varies | Array / Hash Map | [→](dynamic-programming.md) |
 | [Binary Search](binary-search.md) | Monotonic search space | O(log n) | Sorted Array | [→](binary-search.md) |
+| [Backtracking](backtracking.md) | Generate all combinations/permutations | O(2ⁿ) | Array | [→](backtracking.md) |
+| [Greedy](greedy.md) | Local choice → global optimum | O(n log n) | Array | [→](greedy.md) |
+| [Heap / Priority Queue](heap.md) | Top-K, streaming min/max | O(n log k) | Heap | [→](heap.md) |
+| [Intervals](intervals.md) | Merge/insert/overlap ranges | O(n log n) | Sorted Array | [→](intervals.md) |
+| [Bit Manipulation](bit-manipulation.md) | Binary operations, XOR tricks | O(1)–O(n) | Integer | [→](bit-manipulation.md) |
 
 ---
 

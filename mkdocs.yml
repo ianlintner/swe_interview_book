@@ -92,3 +92,14 @@ nav:
     - "Dynamic Programming": patterns/dynamic-programming.md
     - "Binary Search": patterns/binary-search.md
     - "Backtracking": patterns/backtracking.md
+    - "Greedy": patterns/greedy.md
+    - "Heap / Priority Queue": patterns/heap.md
+    - "Intervals": patterns/intervals.md
+    - "Bit Manipulation": patterns/bit-manipulation.md
+  - "Glossary":
+    - glossary/index.md
+    - "Algorithm Glossary": glossary/algorithms.md
+    - "Data Structure Glossary": glossary/data-structures.md
+    - "Problem Index": glossary/problems.md
+  - "Flash Cards": flashcards/index.md
+  - "Quizzes": quizzes/index.md
