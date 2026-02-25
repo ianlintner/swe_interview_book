@@ -32,6 +32,22 @@ A comprehensive, step-by-step framework for solving coding interview problems �
 
     [:octicons-arrow-right-24: Explore Patterns](patterns/index.md)
 
+- :material-book-alphabet:{ .lg .middle } **Glossary**
+
+    ---
+
+    Algorithms, data structures, and 150+ LeetCode problems — all cross-linked and tagged.
+
+    [:octicons-arrow-right-24: Browse Glossary](glossary/index.md)
+
+- :material-cards:{ .lg .middle } **Flash Cards & Quizzes**
+
+    ---
+
+    Self-test with collapsible flash cards and scored quizzes.
+
+    [:octicons-arrow-right-24: Study Flash Cards](flashcards/index.md) · [:octicons-arrow-right-24: Take Quizzes](quizzes/index.md)
+
 </div>
 
 ---

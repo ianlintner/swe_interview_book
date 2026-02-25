@@ -75,6 +75,8 @@ nav:
     - "Step 5 — Plan Your Approach": guide/step5-approach.md
     - "Step 6 — Implement": guide/step6-implement.md
     - "Step 7 — Test & Optimize": guide/step7-test-optimize.md
+    - "Quick Reference": guide/quick-reference.md
+    - "Career Level Guide": guide/levels.md
   - "Code Examples":
     - examples/index.md
     - "Two Sum": examples/two-sum.md
@@ -89,3 +91,15 @@ nav:
     - "BFS & DFS": patterns/bfs-dfs.md
     - "Dynamic Programming": patterns/dynamic-programming.md
     - "Binary Search": patterns/binary-search.md
+    - "Backtracking": patterns/backtracking.md
+    - "Greedy": patterns/greedy.md
+    - "Heap / Priority Queue": patterns/heap.md
+    - "Intervals": patterns/intervals.md
+    - "Bit Manipulation": patterns/bit-manipulation.md
+  - "Glossary":
+    - glossary/index.md
+    - "Algorithm Glossary": glossary/algorithms.md
+    - "Data Structure Glossary": glossary/data-structures.md
+    - "Problem Index": glossary/problems.md
+  - "Flash Cards": flashcards/index.md
+  - "Quizzes": quizzes/index.md
