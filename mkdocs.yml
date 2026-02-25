@@ -101,5 +101,48 @@ nav:
     - "Algorithm Glossary": glossary/algorithms.md
     - "Data Structure Glossary": glossary/data-structures.md
     - "Problem Index": glossary/problems.md
+  - "Math":
+    - math/index.md
+    - "Combinatorics": math/combinatorics.md
+    - "Probability": math/probability.md
+    - "Linear Algebra": math/linear-algebra.md
+    - "Discrete Math": math/discrete-math.md
+  - "Advanced Algorithms":
+    - advanced-algorithms/index.md
+    - "Genetic Algorithms": advanced-algorithms/genetic-algorithms.md
+    - "Famous Algorithms": advanced-algorithms/famous-algorithms.md
+  - "Machine Learning":
+    - "Core ML Problems": machine-learning/index.md
+  - "Databases":
+    - "Database Questions": databases/index.md
+  - "Competitive Coding":
+    - competitive/index.md
+    - "Segment Tree & Fenwick Tree": competitive/segment-tree.md
+  - "System Design":
+    - system-design/index.md
+    - "URL Shortener": system-design/url-shortener.md
+    - "Rate Limiter": system-design/rate-limiter.md
+    - "Twitter / Social Feed": system-design/twitter-feed.md
+    - "Web Crawler": system-design/web-crawler.md
+    - "Notification System": system-design/notification-system.md
+    - "Distributed Cache": system-design/distributed-cache.md
+    - "Message Queue": system-design/message-queue.md
+    - "Search Autocomplete": system-design/search-autocomplete.md
+    - "Video Streaming": system-design/video-streaming.md
+    - "Ride-Sharing Service": system-design/ride-sharing.md
+    - "Chat System": system-design/chat-system.md
+    - "Payment System": system-design/payment-system.md
+    - "Hotel / Flight Booking": system-design/hotel-booking.md
+    - "News Feed": system-design/news-feed.md
+    - "Cloud File Storage": system-design/file-storage.md
+    - "Distributed ID Generator": system-design/distributed-id.md
+    - "Nearby Friends": system-design/nearby-friends.md
+    - "Recommendation Engine": system-design/recommendation-engine.md
+    - "Ad Click Aggregation": system-design/ad-click-aggregation.md
+    - "Key-Value Store": system-design/key-value-store.md
+    - "Code Deployment (CI/CD)": system-design/code-deployment.md
+    - "Live Streaming": system-design/live-streaming.md
+    - "Stock Exchange": system-design/stock-exchange.md
+    - "Google Maps / Navigation": system-design/google-maps.md
   - "Flash Cards": flashcards/index.md
   - "Quizzes": quizzes/index.md
