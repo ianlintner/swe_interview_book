@@ -101,5 +101,11 @@ nav:
     - "Algorithm Glossary": glossary/algorithms.md
     - "Data Structure Glossary": glossary/data-structures.md
     - "Problem Index": glossary/problems.md
+  - "Math":
+    - math/index.md
+    - "Combinatorics": math/combinatorics.md
+    - "Probability": math/probability.md
+    - "Linear Algebra": math/linear-algebra.md
+    - "Discrete Math": math/discrete-math.md
   - "Flash Cards": flashcards/index.md
   - "Quizzes": quizzes/index.md
